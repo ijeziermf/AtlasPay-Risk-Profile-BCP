@@ -1,7 +1,7 @@
 # AtlasPay Business Continuity Plan & Organizational Risk Profile
 **Overview**
 
-This project documents a complete Business Continuity Plan and organizational Risk Profile for a simulated FinTech payment processor (AtlasPay). The objective was to evaluate operational resilience, identify critical business functions, define recovery priorities, and establish a governance‑aligned continuity strategy that supports executive decision‑making and long‑term organizational stability. Rather than focusing solely on technical recovery, this work emphasizes business impact, process dependencies, and risk‑informed continuity planning.
+This project documents a complete Business Continuity Plan and organizational Risk Profile for a simulated FinTech payment processor AtlasPay. The objective was to evaluate operational resilience, identify critical business functions, define recovery priorities, and establish a governance‑aligned continuity strategy that supports executive decision‑making and long‑term organizational stability. Rather than focusing solely on technical recovery, this work emphasizes business impact, process dependencies, and risk‑informed continuity planning.
 
 **Technologies & Tools Used**
 
