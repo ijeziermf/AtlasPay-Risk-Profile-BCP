@@ -1,6 +1,6 @@
 # AtlasPay Business Continuity Plan & Risk Profile
 
-> **Complete BCP and organizational risk profile for a simulated FinTech payment processor — NIST-aligned, executive-ready, governance-focused.**
+> **Complete BCP and organizational risk profile for a simulated FinTech payment processor, NIST-aligned, executive-ready, governance-focused.**
 
 ---
 
@@ -20,7 +20,7 @@
 
 This project documents a complete **Business Continuity Plan (BCP)** and **Organizational Risk Profile** for **AtlasPay**, a simulated FinTech payment processing organization. The objective was to evaluate operational resilience, identify critical business functions, define recovery priorities, and establish a governance-aligned continuity strategy.
 
-Rather than focusing solely on IT recovery, this work emphasizes **business impact**, **process dependencies**, and **risk-informed continuity planning** — mirroring real-world GRC consulting deliverables.
+Rather than focusing solely on IT recovery, this work emphasizes **business impact**, **process dependencies**, and **risk-informed continuity planning**, mirroring real-world GRC consulting deliverables.
 
 ---
 
@@ -39,12 +39,12 @@ Rather than focusing solely on IT recovery, this work emphasizes **business impa
 
 ## Key Features
 
-- ✅ **NIST-Aligned Structure** — SP 800-34 Rev. 1 contingency planning guide
-- ✅ **Business-Focused Language** — Accessible to non-technical executives
-- ✅ **RTO/RPO Definitions** — Recovery time and point objectives per function
-- ✅ **Dependency Mapping** — Cross-system, vendor, personnel dependencies
-- ✅ **Quantitative Risk Scoring** — Operational, security, third-party risks
-- ✅ **Governance Structure** — Roles, responsibilities, escalation pathways
+- ✅ **NIST-Aligned Structure**, SP 800-34 Rev. 1 contingency planning guide
+- ✅ **Business-Focused Language**, Accessible to non-technical executives
+- ✅ **RTO/RPO Definitions**, Recovery time and point objectives per function
+- ✅ **Dependency Mapping**, Cross-system, vendor, personnel dependencies
+- ✅ **Quantitative Risk Scoring**, Operational, security, third-party risks
+- ✅ **Governance Structure**, Roles, responsibilities, escalation pathways
 
 ---
 
@@ -161,10 +161,10 @@ This project demonstrates **client-ready deliverables** for:
 
 ## Key Takeaways
 
-1. **Continuity = Business Impact, Not Just IT Recovery** — Focus on functions, not systems
-2. **Clear RTO/RPO Drives Realistic Expectations** — No ambiguity on recovery priorities
-3. **Dependencies Are the Hidden Risk** — Third-party and personnel gaps often overlooked
-4. **Strong BCP = Governance + Actionable Procedures** — Both structure and execution
+1. **Continuity = Business Impact, Not Just IT Recovery**, Focus on functions, not systems
+2. **Clear RTO/RPO Drives Realistic Expectations**, No ambiguity on recovery priorities
+3. **Dependencies Are the Hidden Risk**, Third-party and personnel gaps often overlooked
+4. **Strong BCP = Governance + Actionable Procedures**, Both structure and execution
 
 ---
 
